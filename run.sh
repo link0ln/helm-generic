@@ -12,4 +12,6 @@ git commit -m "update" -a
 
 git tag "0.1.3" -a
 
-git push 
+git push
+
+git push origin --tags 
