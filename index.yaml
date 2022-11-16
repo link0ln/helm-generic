@@ -3,9 +3,9 @@ entries:
   generic-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-16T13:23:45.625639069Z"
+    created: "2022-11-16T14:53:28.876968331Z"
     description: A Helm chart for Kubernetes
-    digest: 0599e8cbdb9d8e720647dc6df76b3046c9f1f6aaec7192368757b4f81a420001
+    digest: 0f651b38c3d1f416151079d3fe27d42429438ca55df804e747731822c24725df
     name: generic-service
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-16T13:23:45.625081865Z"
+    created: "2022-11-16T14:53:28.876160067Z"
     description: A Helm chart for Kubernetes
     digest: ffb0fce968cc4d21f94ceb339594fee58732446a8c4001f7aa798eaf0b9c610c
     name: generic-service
@@ -23,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-16T13:23:45.624456091Z"
+    created: "2022-11-16T14:53:28.875365658Z"
     description: A Helm chart for Kubernetes
     digest: e4d79a1cedcfd7e8d7cfa555042d6e8c2d6eb308bd97eca442fc1b08384c445c
     name: generic-service
@@ -31,4 +31,4 @@ entries:
     urls:
     - https://link0ln.github.io/helm-generic/generic-service-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-16T13:23:45.622472954Z"
+generated: "2022-11-16T14:53:28.873786787Z"

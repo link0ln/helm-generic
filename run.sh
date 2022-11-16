@@ -10,4 +10,4 @@ git add .
 
 git commit -m "update" -a
 
-git push
+git push --atomic origin main 0.1.3
