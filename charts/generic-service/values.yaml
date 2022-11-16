@@ -30,7 +30,8 @@ serviceAccount:
   # If not set and create is true, a name is generated using the fullname template
   name: ""
 
-podAnnotations: {}
+podAnnotations:
+  avp.kubernetes.io/path: ""
 
 podSecurityContext: {}
   # fsGroup: 2000
