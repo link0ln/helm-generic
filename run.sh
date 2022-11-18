@@ -10,7 +10,7 @@ git add .
 
 git commit -m "update" -a
 
-git tag "0.1.7" -m "nextgen" -a
+git tag "0.1.8" -m "nextgen" -a
 
 git push
 
