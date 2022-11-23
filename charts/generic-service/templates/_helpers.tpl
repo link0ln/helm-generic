@@ -47,7 +47,7 @@ Selector labels
 */}}
 {{- define "generic-service.selectorLabels" -}}
 app.kubernetes.io/name: {{ include "generic-service.name" . }}
-/* app.kubernetes.io/instance: {{ .Release.Name }} */
+app.kubernetes.io/instance: {{ .Release.Name }}
 {{- end }}
 
 {{/*
